@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-widht, initial-scale=1.0">
+    <link rel="stylesheet" href="C:/OpenServer/domains/localhost/wordpress-6.4.1/wordpress/wp-content/themes/test/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <title> about me </title>    
+</head>
+<body>
+<div class="wrapper">
+    <div class="testmonial">
+        <article>
+            <h1> ABOUT ME </h1>
+			<h5>My name is Zhenya</h5>
+            <img src= "wp-content/themes/test/2357065e-1b61-456a-9ed7-b4abf8d5d5db.jpg">
+            <blockquote>
+                That is an originally religious celebration that has become a popular holiday in many countries, especially in the USA and Canada. It is celebrated on the 31st of October, the eve of All Hallows’ Day. The word ‘Halloween’ is a contraction of ‘All Hallows’ Evening’.
+
+Nowadays most people do not see Halloween as a religious celebration. It is just a fun holiday that includes many traditional activities such as trick-or-treating and costume parties. It is popular among both children and grown-ups.
+
+A Halloween costume party is an event where everyone should be dressed up as ghosts, witches, skeletons etc, although in many cases people choose less ghost-related costumes and dress up as pirates, robots, popular shows and videogames characters. Visiting haunted attractions is a different kind of activity. That kind of event is a live show that simulates visiting a haunted house, people might feel like they are in a horror movie. Haunted attractions usually feature scary characters such as horror movie villains or ghosts and zombies.
+            </blockquote>
+
+
+
+        </article>
+
+    
+    </div>
+</div>
+<script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.4.0/firebase-app.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyCoF2ah4f0r1PkviYSSMUxZx6zQE3YO1b0",
+      authDomain: "first-58a13.firebaseapp.com",
+      projectId: "first-58a13",
+      storageBucket: "first-58a13.appspot.com",
+      messagingSenderId: "146621655354",
+      appId: "1:146621655354:web:8d6621c39a21937594c803"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+  </script>
+</body>
